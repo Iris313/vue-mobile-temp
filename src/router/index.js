@@ -1,3 +1,9 @@
+/*
+ * @Descripttion:
+ * @Author: wmq
+ * @Date: 2021-08-01 22:14:58
+ * @LastEditTime: 2021-09-29 16:06:30
+ */
 import { createRouter, createWebHistory } from "vue-router";
 import Home from "../views/Home.vue";
 

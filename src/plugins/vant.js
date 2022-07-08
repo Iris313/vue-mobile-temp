@@ -1,0 +1,175 @@
+/*
+ * @Descripttion:
+ * @Author: wmq
+ * @Date: 2021-09-14 16:49:50
+ * @LastEditTime: 2021-09-29 14:42:32
+ */
+/*
+ * @Descripttion:
+ * @Author: wmq
+ * @Date: 2021-09-14 16:49:50
+ * @LastEditTime: 2021-09-14 16:51:50
+ */
+import "vant/lib/index.css";
+import {
+  // ActionSheet,
+  // AddressEdit,
+  // AddressList,
+  // Area,
+  Button,
+  // Calendar,
+  // Card,
+  // Cell,
+  // CellGroup,
+  // Checkbox,
+  // CheckboxGroup,
+  // Circle,
+  // Col,
+  // Collapse,
+  // CollapseItem,
+  // ContactCard,
+  // ContactEdit,
+  // ContactList,
+  // CountDown,
+  // CouponCell,
+  // CouponList,
+  // DatetimePicker,
+  // Dialog,
+  // Divider,
+  // DropdownItem,
+  // DropdownMenu,
+  // Empty,
+  // Field,
+  // Form,
+  // Grid,
+  // GridItem,
+  // Icon,
+  // Image,
+  // ImagePreview,
+  // IndexAnchor,
+  // IndexBar,
+  // List,
+  // Loading,
+  // Locale,
+  // NavBar,
+  // NoticeBar,
+  // Notify,
+  // NumberKeyboard,
+  // Overlay,
+  // Pagination,
+  // PasswordInput,
+  // Picker,
+  // Popup,
+  // Progress,
+  // PullRefresh,
+  // Radio,
+  // RadioGroup,
+  // Rate,
+  // Row,
+  // Search,
+  // ShareSheet,
+  // Sidebar,
+  // SidebarItem,
+  // Skeleton,
+  // Slider,
+  // Step,
+  // Stepper,
+  // Steps,
+  // Sticky,
+  // SubmitBar,
+  // Swipe,
+  // SwipeCell,
+  // SwipeItem,
+  // Switch,
+  // Tab,
+  // Tabbar,
+  // TabbarItem,
+  // Tabs,
+  // Tag,
+  // Toast,
+  // TreeSelect,
+  // Uploader,
+} from "vant";
+export function initVant(app) {
+  // app.use(ActionSheet);
+  // app.use(AddressEdit);
+  // app.use(AddressList);
+  // app.use(Area);
+  app.use(Button);
+  // app.use(Calendar);
+  // app.use(Card);
+  // app.use(Cell);
+  // app.use(CellGroup);
+  // app.use(Checkbox);
+  // app.use(CheckboxGroup);
+  // app.use(Circle);
+  // app.use(Col);
+  // app.use(Collapse);
+  // app.use(CollapseItem);
+  // app.use(ContactCard);
+  // app.use(ContactEdit);
+  // app.use(ContactList);
+  // app.use(CountDown);
+  // app.use(CouponCell);
+  // app.use(CouponList);
+  // app.use(DatetimePicker);
+  // app.use(Dialog);
+  // app.use(Divider);
+  // app.use(DropdownItem);
+  // app.use(DropdownMenu);
+  // app.use(Empty);
+  // app.use(Field);
+  // app.use(Form);
+  // app.use(Grid);
+  // app.use(GridItem);
+  // app.use(Icon);
+  // app.use(Image);
+  // app.use(ImagePreview);
+  // app.use(IndexAnchor);
+  // app.use(IndexBar);
+  // app.use(Info);
+  // app.use(List);
+  // app.use(Loading);
+  // app.use(Locale);
+  // app.use(NavBar);
+  // app.use(NoticeBar);
+  // app.use(Notify);
+  // app.use(NumberKeyboard);
+  // app.use(Overlay);
+  // app.use(Pagination);
+  // app.use(Panel);
+  // app.use(PasswordInput);
+  // app.use(Picker);
+  // app.use(Popup);
+  // app.use(Progress);
+  // app.use(PullRefresh);
+  // app.use(Radio);
+  // app.use(RadioGroup);
+  // app.use(Rate);
+  // app.use(Row);
+  // app.use(Search);
+  // app.use(ShareSheet);
+  // app.use(Sidebar);
+  // app.use(SidebarItem);
+  // app.use(Skeleton);
+  // app.use(Sku);
+  // app.use(Slider);
+  // app.use(Step);
+  // app.use(Stepper);
+  // app.use(Steps);
+  // app.use(Sticky);
+  // app.use(SubmitBar);
+  // app.use(Swipe);
+  // app.use(SwipeCell);
+  // app.use(SwipeItem);
+  // app.use(Switch);
+  // app.use(SwitchCell);
+  // app.use(Tab);
+  // app.use(Tabbar);
+  // app.use(TabbarItem);
+  // app.use(Tabs);
+  // app.use(Tag);
+  // app.use(Toast);
+  // app.use(TreeSelect);
+  // app.use(Uploader);
+}
